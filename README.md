@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hey, I'm Kate <img src ="https://media.giphy.com/media/dyAnngHb30dDdiaW3x/giphy.gif" height="50"> 
 
-<!--
-**Ekaterina300799/Ekaterina300799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://github.com/Ekaterina300799">
+<img align="center" alt="Kate's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ekaterina300799&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/sabesansathananthan">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ekaterina300799&layout=compact&theme=dracula" />
+</a>
+
+
+## Connect with me: <img src ="https://media.giphy.com/media/Ovorh6b0MAawDFdMPN/giphy.gif" height="35"> 
+
+[<img align="left" alt="Kate| Telegram" height="22px" src="./logo/telegram.png" />][telegram]
+[<img align="left" alt="Kate | Instagram" height="22px" src="./logo/instagram.png" />][instagram]
+[<img align="left" alt="kate| LinkedIn" height="22px" src="./logo/linkedin.png" />][linkedin]
+
+
+
+
+---
+[telegram]: https://t.me/katringht
+
+[instagram]: https://instagram.com/katringht?igshid=19ru0uv0dr6sf
+
+[linkedin]: https://www.linkedin.com/in/ekaterina-tarasova-5ba18b1b4/
+
+
