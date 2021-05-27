@@ -1,8 +1,8 @@
 # Hey, I'm Kate <img src ="https://media.giphy.com/media/dyAnngHb30dDdiaW3x/giphy.gif" height="50"> 
 
 
-<!-- <a href="https://github.com/katringht">
-<img align="center" alt="Kate's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=katringht&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" /></a> -->
+<a href="https://github.com/katringht">
+<img align="center" alt="Kate's Github Stats" src="https://github-readme-stats.vercel.app/api?username=katringht&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" /></a>
 
 <a href="https://github.com/katringht">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=katringht&layout=compact&theme=dracula" />
