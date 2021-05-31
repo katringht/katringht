@@ -2,7 +2,7 @@
 
 
 <a href="https://github.com/katringht">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=katringht&layout=compact&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=katringht&layout=compact&theme=buefy" />
 </a>
 
 
