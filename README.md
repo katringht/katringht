@@ -2,12 +2,11 @@
 
 
 <a href="https://github.com/katringht">
-<img align="center" alt="Kate's Github Stats" src="https://github-readme-stats.vercel.app/api?username=katringht&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" /></a>
-
-<a href="https://github.com/katringht">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=katringht&layout=compact&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=katringht&layout=compact&theme=buefy" />
 </a>
 
+
+![Kate's GitHub stats](https://github-readme-stats.vercel.app/api?username=katringht&theme=buefy&show_icons=true&count_private=true&hide=issues)
 
 
 ## Connect with me: <img src ="https://media.giphy.com/media/Ovorh6b0MAawDFdMPN/giphy.gif" height="35"> 
